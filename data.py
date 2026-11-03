@@ -1,4 +1,4 @@
-"""Step 3a: load fMRI, align with BEATs features, build lagged design matrices."""
+"""Step 3a: load fMRI, align with BEATs features, build lagged design matrices, load atlas."""
 import numpy as np
 
 from config import (ATLAS_DIRNAME, ATLAS_GLOB, ATLAS_SHAPE, D_MODEL,
