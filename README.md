@@ -2,6 +2,7 @@
 This project investigates whether layer-wise representations from a pretrained audio Transformer (BEATs) can predict fMRI responses recorded during naturalistic viewing of the Friends TV series.
 
 This repo will be updated shortly.
+<img width="3860" height="1490" alt="fig01_layer_profiles_cv_vs_test" src="https://github.com/user-attachments/assets/65b3596e-103c-422f-a30e-a1a029524f63" />
 
 <img width="750" height="733" alt="best_layer_per_parcel_sub-01" src="https://github.com/user-attachments/assets/df369e25-a8ad-400a-bf5d-b55547306c8a" />
 
